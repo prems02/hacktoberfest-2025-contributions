@@ -3,7 +3,7 @@
 Welcome to the **Hacktoberfest 2025 Community Repository!**  
 This is an open space where developers of all levels can make meaningful open-source contributions, learn Git/GitHub workflows, and celebrate the spirit of open collaboration.
 
----
+
 
 ## 🌍 What is Hacktoberfest?
 
@@ -14,7 +14,7 @@ Participants are encouraged to contribute to repositories on GitHub and GitLab t
 ✅ **Event Duration:** October 1 – October 31 2025  
 ✅ **Theme:** Collaboration, Learning, and Contribution
 
----
+
 
 ## 🚀 How to Participate
 
@@ -41,7 +41,7 @@ Participants are encouraged to contribute to repositories on GitHub and GitLab t
 
 Once your PR is reviewed and merged (or labeled `hacktoberfest-accepted`), it will count toward your Hacktoberfest progress. 🎉
 
----
+
 
 ## 🧠 Contribution Ideas
 
@@ -52,7 +52,7 @@ You can contribute in many ways:
 - Create beginner-friendly issues for others
 - Improve UI/UX, accessibility, or readme formatting
 
----
+
 
 ## 🏷️ Labels
 
@@ -65,14 +65,14 @@ You can contribute in many ways:
 | `enhancement` | New features or improvements |
 | `bug` | Bug reports or fixes |
 
----
+
 
 ## ⚖️ License
 
 This project is licensed under the [MIT License](./LICENSE).  
 You’re free to use, modify, and distribute your contributions as long as proper credit is given.
 
----
+
 
 ## 💬 Community Rules
 
@@ -81,7 +81,7 @@ You’re free to use, modify, and distribute your contributions as long as prope
 - Follow GitHub’s [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).  
 - Help others learn — Hacktoberfest is about growth!
 
----
+
 
 ## 🤝 Maintainers’ Note
 
