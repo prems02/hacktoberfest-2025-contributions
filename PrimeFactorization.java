@@ -1,3 +1,7 @@
+// Problem Statement: Print all prime factors of a given number
+// Time Complexity: O(sqrt(N))
+// Space Complexity: O(1)
+
 import java.util.Scanner;
 
 public class PrimeFactorization {
@@ -13,5 +17,7 @@ public class PrimeFactorization {
                 n /= i;
             }
         }
+        System.out.println();
+        sc.close();
     }
 }
